@@ -5,7 +5,7 @@
 ### Data Science Projects
 
 [Predictive Maintenance: Backblaze Hard Drive Dataset](https://github.com/Kuebic/Thinkful/tree/master/Final_Project)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/feature_importance_fail_today_or_tomorrow_xgb.png?raw=true"/>
 
 ---
 [Clustering: Lending Club](https://github.com/Kuebic/Thinkful/blob/master/23_Unsupervised_Learning/23_project.ipynb)
