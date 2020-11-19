@@ -25,11 +25,6 @@
 
 [Github Link](https://github.com/Kuebic/Thinkful/blob/master/23_Unsupervised_Learning/23_project.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-<!-- 
----
-[project 2](/pdf/sample_presentation.pdf)
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
